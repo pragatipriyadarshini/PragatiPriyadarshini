@@ -1,44 +1,34 @@
 <h1 align="center">Hi 👋, I'm Pragati Priyadarshini</h1>
-<h3 align="center"> Aspiring Data Analyst | Python & SQL Learner | Systems Engineer </h3>
+<h3 align="center"> Site Reliability Engineer | Linux | Shell Scripting | Redhat Ansible | GenAI | Middleware (WebLogic, Apache)
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" height="300" alt="Data coding gif"/> </p>
 
 
-I'm currently working as a **Systems Engineer** at Cognizant with 1.7 years of experience in **Oracle WebLogic**, **Apache HTTP Server**, and **Linux-based automation**.  
+I'm currently working as a **Systems Engineer** at Cognizant with over 2 years of experience in **Oracle WebLogic**, **Apache HTTP Server**, and **Linux-based batch automation**.  
 
-While I’ve built a strong foundation in infrastructure and scripting, my curiosity for patterns, insights, and optimization has led me to pivot into **Data Analytics**. I’m now learning **Python**, **SQL**, and data visualization and reporting.
-
+While I’ve built a strong foundation in infrastructure and scripting, my interests lay me a path towards DevOps anc Cloud tools. 
 ---
 
-### 🎯 Current Focus  
+### Current Focus  
 
-- Strengthening Python basics — especially **pandas**, **matplotlib**, and **data cleaning**  
-- Practicing SQL queries, joins, and aggregations  
-- Exploring datasets and building mini-projects  
-- Documenting my journey in [DA-Learning-Journal](https://github.com/Pragati0302/DA-learning-journal)
+- Strengthening Cloud Tools
+- Practicing Docker image deployments on AWS. 
 
-
-### 📚 Learning in Progress  
-
-- 🐍 Python (data structures, pandas, matplotlib)  
-- 🗃️ SQL (joins, aggregations, window functions)  
-<!--- 📊 Data visualization (coming soon)  
-- 💡 Real-world projects (Kaggle, UCI datasets — coming soon) -->
-
-### 💼 Technical Background  
+### Technical Background  
 
 **Systems Engineer – Cognizant Technology Solutions Pvt. Ltd.**  
 *Dec 2023 – Present*  
 - Configured **WebLogic and Apache domains** based on the architecture
 - Automated recurring server tasks using **Shell scripts**, reducing manual effort  
 - Implemented **SSL/HTTPS** across domains for security
+- Executed and built ansible playbooks automating restarts and deployment processes across 12 applications
 - Supported L3 teams with **heap & thread dump analysis**
 
 ### 🧩 Tools & Skills  
 
 | Category | Tools / Skills |
 |-----------|----------------|
-| **Currently Learning** | Python, SQL |
+| **Currently Learning** | AWS, Docker |
 | **Technical Skills** | Shell scripting, Linux, Oracle WebLogic, Apache HTTP Server |
 | **Monitoring** | Dynatrace, Log Analysis |
 | **Version Control** | Git, GitHub |

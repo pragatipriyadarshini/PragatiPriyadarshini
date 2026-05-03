@@ -24,7 +24,7 @@ While I’ve built a strong foundation in infrastructure and scripting, my inter
 - Executed and built ansible playbooks automating restarts and deployment processes across 12 applications
 - Supported L3 teams with **heap & thread dump analysis**
 
-### 🧩 Tools & Skills  
+### Tools & Skills  
 
 | Category | Tools / Skills |
 |-----------|----------------|
@@ -35,7 +35,7 @@ While I’ve built a strong foundation in infrastructure and scripting, my inter
 
 ---
 
-### 📫 Connect With Me  
+### Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pragati-priyadarshini/" target="_blank" title="Connect on LinkedIn">
